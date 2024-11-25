@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-08-06T13:16:27.391343",
+            "datePublished": "2024-11-25T12:41:36.526572",
             "hasPart": [
                 {
                     "@id": "QIIME2-III-V-Phylogeny-Rarefaction-Taxonomic-Analysis.ga"
@@ -76,7 +76,7 @@
                     "@id": "#0009-0008-1496-1677"
                 },
                 {
-                    "@id": "#ed36cecd-188e-4717-a5e4-8389245ffd57"
+                    "@id": "#04f8b126-6f20-4d32-89a8-579e8cc81540"
                 }
             ],
             "name": "qiime2-III-VI-downsteam/QIIME2-III-V-Phylogeny-Rarefaction-Taxonomic-Analysis",
@@ -84,7 +84,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/qiime2-III-VI-downsteam",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -104,7 +104,7 @@
             "name": "Debjyoti Ghosh"
         },
         {
-            "@id": "#ed36cecd-188e-4717-a5e4-8389245ffd57",
+            "@id": "#04f8b126-6f20-4d32-89a8-579e8cc81540",
             "@type": "Organization",
             "name": "Helmholtz-Zentrum f\u00fcr Umweltforschung - UFZ"
         },
@@ -155,7 +155,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.24"
+            "engineVersion": ">=0.75.26"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
@@ -177,7 +177,7 @@
                     "@id": "#0009-0008-1496-1677"
                 },
                 {
-                    "@id": "#c445ade4-133a-4183-a368-7baea186cc8c"
+                    "@id": "#00e660e5-be17-4351-98eb-7f384eb822fc"
                 }
             ],
             "name": "qiime2-III-VI-downsteam/QIIME2-VI-diversity-metrics-and-estimations",
@@ -185,10 +185,10 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/qiime2-III-VI-downsteam",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
-            "@id": "#c445ade4-133a-4183-a368-7baea186cc8c",
+            "@id": "#00e660e5-be17-4351-98eb-7f384eb822fc",
             "@type": "Organization",
             "name": "Helmholtz-Zentrum f\u00fcr Umweltforschung - UFZ"
         },
@@ -227,7 +227,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.24"
+            "engineVersion": ">=0.75.26"
         }
     ]
 }
